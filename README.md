@@ -50,4 +50,4 @@ Dataset: AI_Impact_on_Jobs_2030
 
 ## Dashboard Preview
 
-![Dashboard](Image/AI_impact_on_job_dashboard_Excel.png)
+![Dashboard](Images)
